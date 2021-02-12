@@ -147,6 +147,13 @@ h2{
     padding: 3em 0;
     border-top-right-radius:40px;
     transform:skewY(3deg);
+    height:80%;
+}
+.footer-add{
+    width:100%;
+    background-color:#3D444A;
+    padding:3em;
+    margin-top:-2.8%;
 }
 
 .footer-container .container{
